@@ -10,8 +10,7 @@ Find Conceptual Demo hosted via streamlit here: https://kg-rag-demo-8vjfpvifgemx
 Data folders in this repository hold the following information:
 - `data/logs` holds log database `"log.db"` of live runs made in `"streamlit_app.py"`
 - `data/patient_notes` holds data for testing with `scripts/batch_testing.py`.
-- `data/test#3` holds the full dataset for the final test run used to achieve results discussed in the master thesis.
-- `data/vector_search` holds all vector embeddings made and used for the production of the results in test #3.
+
 
 Scripts folder contains:
 - `analyze_batch_outputs.py` inspection of test data
