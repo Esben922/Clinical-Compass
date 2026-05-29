@@ -27,6 +27,8 @@ The root folder holds:
 
 # Reproduce our results with the following setup:
 
+Get relevant permissions if needed.
+
 ### Get Data Foundation:
 - `scripts/scrape.py` to scrape files.
 - `scripts/extraction.py` to extract relationship triplets.
