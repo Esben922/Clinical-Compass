@@ -10,7 +10,6 @@ Find Conceptual Demo hosted via streamlit here: https://kg-rag-demo-8vjfpvifgemx
 Data folders in this repository hold the following information:
 - `data/logs` holds log database `"log.db"` of live runs made in `"streamlit_app.py"`
 - `data/patient_notes` holds data for testing with `scripts/batch_testing.py`.
-- `data/patient_notes` holds data for testing with `scripts/batch_testing.py`.
 
 
 Scripts folder contains:
